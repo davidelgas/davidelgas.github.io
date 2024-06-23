@@ -10,7 +10,7 @@ Hello! I am David Elgas, a Data Scientist and Developer.
 
 ### Project 1: Predictive Analytics and Explainable AI
 - Description of Project 1.
-- [Link to Project 1](https://github.com/davidelgas/project1)
+- [[Link to Project 1](https://github.com/davidelgas/project1)](https://github.com/davidelgas/DataSciencePortfolio/tree/main/Knowledge_base_development%20)
 
 ### Project 2: Leveraging Latent Dirichlet allocation for Knowledge Base development
 - Description of Project 2.
