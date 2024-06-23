@@ -4,9 +4,6 @@ layout: default
 
 # Data Analysis and Machine Learning Projects
 
-
-## Projects
-
 <table>
   <tr>
     <td style="width: 70%;">
