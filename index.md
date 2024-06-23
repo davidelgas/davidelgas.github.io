@@ -19,16 +19,6 @@ Hello! I am David Elgas, a Data Scientist and Developer.
       <img src="https://github.com/davidelgas/davidelgas.github.io/blob/main/images/shapley.png" alt="Predictive Analytics" width="100%" />
     </td>
   </tr>
-  <tr>
-    <td style="width: 70%;">
-      <h3>Project 2: Leveraging Latent Dirichlet Allocation for Knowledge Base Development</h3>
-      <p>Description of Project 2.</p>
-      <p><a href="https://github.com/davidelgas/project2">Link to Project 2</a></p>
-    </td>
-    <td style="width: 30%;">
-      <img src="images/yourimage2.jpg" alt="Knowledge Base Development" width="100%" />
-    </td>
-  </tr>
   <!-- Add more projects as needed -->
 </table>
 
