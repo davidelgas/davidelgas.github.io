@@ -24,7 +24,7 @@ Hello! I am David Elgas, a Data Scientist and Developer.
 - Description of Project 4.
 - [Link to Project 4](https://github.com/davidelgas/project4)
 
-### Project 5: The impact of data issues in understanding homelessness in LA
+### Project 5: Leveraing Data Science to understand socioeconomic factors on Homelessness in LA
 - Description of Project 5.
 - [Link to Project 5](https://github.com/davidelgas/project5)
 
