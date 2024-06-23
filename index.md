@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to My Portfolio
+# Data Analysis and Machine Learning projects
 
 Hello! I am David Elgas, a Data Scientist and Developer.
 
