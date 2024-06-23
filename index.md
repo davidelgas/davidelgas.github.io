@@ -9,7 +9,7 @@ Hello! I am David Elgas, a Data Scientist and Developer.
 ## Projects
 
 ### Predictive Analytics and Explainable AI
-- In this project I developed an AI model to identify and quantify the key factors contributing to customer churn in a subscription-based service. By meticulously experimenting with various machine learning algorithms, the developed model not only predicts churn with high accuracy but also provides insightful interpretations of the underlying causes. The results shown were implemented recently in a subscription based business and reduced churn by > 15%.
+- In this project I developed an AI model to identify and quantify the key factors contributing to customer churn in a subscription-based service. The model not only predicts churn with usable accuracy and precision, but also provides insightful interpretations of the underlying causes. The results shown were implemented recently in a subscription based business and reduced churn by > 15%.
 - https://github.com/davidelgas/DataSciencePortfolio/tree/main/Knowledge_base_development%20
 
 ### Project 2: Leveraging Latent Dirichlet allocation for Knowledge Base development
