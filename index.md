@@ -4,7 +4,6 @@ layout: default
 
 # Data Analysis and Machine Learning Projects
 
-Hello! I am David Elgas, a Data Scientist and Developer.
 
 ## Projects
 
