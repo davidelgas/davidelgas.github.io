@@ -16,7 +16,7 @@ Hello! I am David Elgas, a Data Scientist and Developer.
       <p><a href="https://github.com/davidelgas/DataSciencePortfolio/tree/main/Knowledge_base_development">Link to Project 1</a></p>
     </td>
     <td style="width: 30%;">
-      <img src="images/yourimage.jpg" alt="Predictive Analytics" width="100%" />
+      <img src="https://github.com/davidelgas/davidelgas.github.io/blob/main/images/shapley.png" alt="Predictive Analytics" width="100%" />
     </td>
   </tr>
   <tr>
