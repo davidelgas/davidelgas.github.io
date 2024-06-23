@@ -4,6 +4,18 @@ layout: default
 
 # Welcome to My Portfolio
 
-Hello! I am David Elgas, a Data Scientist in development.
+Hello! I am David Elgas, a Data Scientist and Developer.
 
+## Projects
+
+### Project 1: Awesome Project
+- Description of Project 1.
+- [Link to Project 1](https://github.com/davidelgas/project1)
+
+### Project 2: Another Great Project
+- Description of Project 2.
+- [Link to Project 2](https://github.com/davidelgas/project2)
+
+## Contact
 - [LinkedIn](https://www.linkedin.com/in/davidelgas/)
+- [Email](mailto:davidelgas@hotmail.com)
