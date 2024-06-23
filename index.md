@@ -12,7 +12,7 @@ layout: default
       <p><a href="https://github.com/davidelgas/DataSciencePortfolio/tree/main/Predictive_Modeling_with_sklearn/notebooks">Notebook</a></p>
     </td>
     <td style="width: 30%;">
-      <img src="https://github.com/davidelgas/davidelgas.github.io/blob/main/images/shapley.png" alt="Predictive Analytics" width="100%" />
+      <img src="https://davidelgas.github.io/images/shapley.png" alt="Predictive Analytics" width="100%" />
     </td>
   </tr>
   <!-- Add more projects as needed -->
