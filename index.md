@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Data Analysis and Machine Learning Projects
 
