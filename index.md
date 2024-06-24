@@ -39,10 +39,8 @@
       <p><a href="https://github.com/davidelgas/DataSciencePortfolio/blob/main/Inference_Models/predictive_modeling_with_scikit_learn.ipynb">Notebook</a></p>
     </td>
     <td style="width: 30%;">
-      <img src="https://davidelgas.github.ioimages/BoxWhiskers.png" alt="Language Analytics" width="100%" />
+      <img src="https://davidelgas.github.io/images/BoxWhiskers.png" alt="Language Analytics" width="100%" />
     </td>
-
-
 
 </table>
 
