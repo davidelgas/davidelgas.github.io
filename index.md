@@ -41,9 +41,4 @@
     <td style="width: 30%;">
       <img src="https://davidelgas.github.io/images/BoxWhiskers.png" alt="Language Analytics" width="100%" />
     </td>
-
 </table>
-
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/davidelgas/)
-- [Email](mailto:davidelgas@hotmail.com)
