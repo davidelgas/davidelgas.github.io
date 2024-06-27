@@ -13,7 +13,7 @@
   <tr>
     <td style="width: 70%;">
       <h3>Conversation Modeling</h3>
-      <p>This project aims to leverage Generative AI to create a "virtual mechanic." By including utilizing a corpus gathered from a car forum, this AI-driven tool will be capable of understanding unstructured questions and providing relevant answers.</p>
+      <p>This project aims is part of a large effort to leverage Generative AI to create a "virtual mechanic." Here, LDA is used to find unique topics for proper summarization, clustering and enoding.</p>
       <p><a href="https://github.com/davidelgas/DataSciencePortfolio/blob/main/Inference_Models/predictive_modeling_with_scikit_learn.ipynb">Notebook</a></p>
     </td>
     <td style="width: 30%;">
