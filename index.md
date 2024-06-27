@@ -34,7 +34,7 @@
     <td style="width: 70%;">
       <h3>Statistical Analysis of Homelessness</h3>
       <p>Homelessness represents a persistent and growing challenge in the United States  with the magnitude of homelessness particularly evident in Los Angeles, California .  This study was undertaken to look for possible answers that may ultimately help this underserved community.</p>
-      <p><a href="https://github.com/davidelgas/DataSciencePortfolio/blob/main/Statistical_Models/Exploring%20the%20Predictive%20Power%20of%20Socioeconomic%20Data%20on%20Homelessness%20in%20Los%20Angeles%2C%20CA.pdf)">Notebook</a></p>
+      <p><a href="https://github.com/davidelgas/DataSciencePortfolio/blob/main/Statistical_Models/Homelessness.rmd">Notebook</a></p>
     </td>
     <td style="width: 30%;">
       <img src="https://davidelgas.github.io/images/BoxWhiskers.png" alt="Statistical Analysis" width="100%" />
