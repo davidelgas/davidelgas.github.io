@@ -27,7 +27,7 @@
       <p><a href="https://github.com/davidelgas/DataSciencePortfolio/blob/main/Inference_Models/predictive_modeling_with_scikit_learn.ipynb">Notebook</a></p>
     </td>
     <td style="width: 30%;">
-      <img src="https://davidelgas.github.io/images/TSNE.png" width="100%" />
+      <img src="https://davidelgas.github.io/images/TSNE_GIF.gif" width="100%" />
     </td>
   </tr>
   <tr>
