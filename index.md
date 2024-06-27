@@ -33,7 +33,8 @@
   <tr>
     <td style="width: 70%;">
       <h3>Statistical Analysis of Homelessness</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore .</p>
+      <p>Homelessness represents a persistent and growing challenge in the United States  with the magnitude of homelessness particularly evident in Los Angeles, California .  This study was undertaken to look for possible answers that may ultimately help this underserved community. ![image](https://github.com/davidelgas/davidelgas.github.io/assets/162635896/6a9e50ca-cc58-4032-b298-ba129be5e174)
+</p>
       <p><a href="https://github.com/davidelgas/DataSciencePortfolio/blob/main/Inference_Models/predictive_modeling_with_scikit_learn.ipynb">Notebook</a></p>
     </td>
     <td style="width: 30%;">
