@@ -13,7 +13,7 @@
   <tr>
     <td style="width: 70%;">
       <h3>Conversation Modeling</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore .</p>
+      <p>This project aims to leverage Generative AI to create a "virtual mechanic." By including utilizing a corpus gathered from a car forum, this AI-driven tool will be capable of understanding unstructured questions and providing relevant answers.</p>
       <p><a href="https://github.com/davidelgas/DataSciencePortfolio/blob/main/Inference_Models/predictive_modeling_with_scikit_learn.ipynb">Notebook</a></p>
     </td>
     <td style="width: 30%;">
