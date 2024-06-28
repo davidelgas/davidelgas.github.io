@@ -25,7 +25,6 @@
       <h3>Large Language Models with RAG</h3>
       <p>This project aims to leverage Generative AI to create a "virtual mechanic." By utilizing a corpus of text gathered from a car forum, this AI-driven tool will be capable of understanding unstructured questions and providing relevant answers. </p>
       <p><a href="https://github.com/davidelgas/DataSciencePortfolio/blob/main/Language_Models/LLM_with_RAG.ipynb">Notebook</a></p>
-      <p><a href="https://github.com/davidelgas/DataSciencePortfolio/blob/main/Language_Models/LLM_with_RAG.pdf">Report</a></p>
     </td>
     <td style="width: 30%;">
       <img src="https://davidelgas.github.io/images/TSNE_GIF.gif" width="100%" />
