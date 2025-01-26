@@ -13,7 +13,7 @@
   <tr>
     <td style="width: 70%;">
       <h3>Conversation Modeling</h3>
-      <p>This project aims is part of a large effort to leverage Generative AI to create a "virtual mechanic." Here, LDA is used to find unique topics for proper summarization, clustering and enoding.</p>
+      <p>This project aims is part of a large effort to leverage Generative AI to create a "virtual mechanic." Here, LDA is used to find unique topics for proper summarization, clustering and encoding.</p>
       <p><a href="https://github.com/davidelgas/DataSciencePortfolio/blob/main/Language_Models/NLP_with_LDA.ipynb">Notebook</a></p>
     </td>
     <td style="width: 30%;">
