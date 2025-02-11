@@ -48,7 +48,7 @@
       <p><a href="https://github.com/davidelgas/DataSciencePortfolio">Project Directory</a></p>
     </td>
     <td style="width: 30%;">
-      <img src="/api/placeholder/400/300" alt="Project Sandbox" width="100%" />
+       <img src="https://davidelgas.github.io/images/Picture1.png" alt="Statistical Analysis" width="100%" />
     </td>
   </tr>
 </table>
