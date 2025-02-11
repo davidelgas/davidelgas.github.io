@@ -41,4 +41,14 @@
       <img src="https://davidelgas.github.io/images/BoxWhiskers.png" alt="Statistical Analysis" width="100%" />
     </td>
   </tr>
+  <tr>
+    <td style="width: 70%;">
+      <h3>Project Sandbox</h3>
+      <p>A collection of experimental projects and works in progress. This sandbox environment showcases various technical implementations, proof-of-concepts, and innovative ideas across machine learning, data analysis, and AI applications. These projects represent ongoing exploration and development in emerging technologies.</p>
+      <p><a href="https://github.com/davidelgas/DataSciencePortfolio">Project Directory</a></p>
+    </td>
+    <td style="width: 30%;">
+      <img src="/api/placeholder/400/300" alt="Project Sandbox" width="100%" />
+    </td>
+  </tr>
 </table>
